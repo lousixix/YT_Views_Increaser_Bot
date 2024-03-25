@@ -1,0 +1,4 @@
+git clone "https://github.com/DeBos99/ytviewer.git"
+cd ytviewer
+install.bat
+cd ..
